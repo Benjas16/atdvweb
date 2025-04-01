@@ -49,7 +49,7 @@ let dados = [
         descricao : "É a terceira camisa do barcelona na atual na temporada. É uma camisa bem falada no mundo do esporte, e tem detalhes minimalistas. Sua cor verde lembra unifomes passados e é bem bonita.",
         link : "https://www.netshirtsbr.com.br/produtos/camisa-do-barcelona-third-24-25/?srsltid=AfmBOoo_HHJ2HTMSmmoEaHz93vOimgWVdhdUBgPhtOOPAC7EU4sxPDWslzA"
     },
-    {   src : "goleir.jpg",
+    {   src : "carosa.webp",
         alt : "Camisa Rosa",
         nome : "CAMISA BARCELONA ROSA",
         descricao : "Essa camisa é Rosa, da temporada 2018. Ela chama atenção por seus detalhes e cores chamativas, ela é a terceira camisa da época e bem conhecida pelos torcedores. ",
