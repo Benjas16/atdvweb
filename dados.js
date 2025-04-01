@@ -50,10 +50,10 @@ let dados = [
         link : "https://www.netshirtsbr.com.br/produtos/camisa-do-barcelona-third-24-25/?srsltid=AfmBOoo_HHJ2HTMSmmoEaHz93vOimgWVdhdUBgPhtOOPAC7EU4sxPDWslzA"
     },
     {   src : "goleir.jpg",
-        alt : "Camisa goleiro",
-        nome : "CAMISA BARCELONA goleiro",
-        descricao : "Essa camisa é do goleiro, nessa atual temporada. Ela chama atenção por seus detalhes e cores chamativas, e tambem pela marca que lembram garras de tigre. ",
-        link : "https://www.tradeinn.com/goalinn/pt/barca-camiseta-de-manga-comprida-retro-74-75/138538963/p?utm_source=google_products&utm_medium=merchant&id_producte=14878130&country=br&srsltid=AfmBOorv2U4rW51MhIlQa-9t12KHQbEG-iw9sbQmn6fzdB-1WS37EvevDzI"
+        alt : "Camisa Rosa",
+        nome : "CAMISA BARCELONA ROSA",
+        descricao : "Essa camisa é Rosa, da temporada 2018. Ela chama atenção por seus detalhes e cores chamativas, ela é a terceira camisa da época e bem conhecida pelos torcedores. ",
+        link : "https://www.google.com/shopping/product/1?q=camisa+rosa+barcelona&prds=epd:9644926021644222,eto:9644926021644222_0,pid:9644926021644222&sa=X&ved=0ahUKEwi4w_e1gLeMAxUsHbkGHSPICQQQ9pwGCAc"
     },
     {   src : "1970.jpg",
         alt : "Camisa 1970",
