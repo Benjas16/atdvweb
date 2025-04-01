@@ -11,7 +11,7 @@ let dados = [
         alt : "Camisa 2019",
         nome : "CAMISA BARCELONA 2019",
         descricao : "Essa camisa é considerada como uma das mais bonitas do barcelona 2018/2019. É uma camisa bem lembrada e amada pelos fãs culés.",
-        link : "https://www.casasbahia.com.br/camisa-barcelona-logo-azul-1560720815/p/1560333131?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1560333131&idLojista=97551&tipoLojista=3P&srsltid=AfmBOopW2wGbVFybnCafaBHX5AfdBzuJcOyMjOZ0_blEVUShjsjJeraaKFg"
+        link : "https://www.netshirtsbr.com.br/produtos/camisa-do-barcelona-retro-home-17-18/?srsltid=AfmBOooCAGt8p2JLTLdcUQbRsqMONP6EDgS43Tm-gB1w58J-Pqndkx6UQh8"
     },
     {   src : "2006.jpg",
         alt : "Camisa 2006",
